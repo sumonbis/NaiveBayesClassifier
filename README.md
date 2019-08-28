@@ -18,6 +18,8 @@ Instructions to run the program:
 	ii. Compile : $ javac *.java
 	iii. Run: $ java NaiveBayes vocabulary.txt map.csv train_label.csv train_data.csv test_label.csv test_data.csv
 
+The detail results and output can be found here: https://github.com/sumonbis/NaiveBayesClassifier/blob/master/Result.pdf
+
 
 ## References
 1. Ken Lang, Newsweeder: Learning to filter netnews, Proceedings of the Twelfth International Conference on Machine Learning, 331-339 (1995).
